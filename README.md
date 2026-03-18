@@ -27,7 +27,7 @@ npm run dev
 (coming soon)
 
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 Add AI opponent
 
