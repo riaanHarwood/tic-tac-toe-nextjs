@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe (Next.js)
 
-A modern Tic Tac Toe web application built using React and Next.js.
+A modern Tic Tac Toe web application built using React and Next.js. Try it out!
 
 ## 🚀 Features
 - Interactive game board
