@@ -20,3 +20,8 @@ git clone https://github.com/YOUR_USERNAME/tic-tac-toe-nextjs.git
 cd tic-tac-toe-nextjs
 npm install
 npm run dev
+```
+
+## 📸 Demo
+
+(coming soon)
