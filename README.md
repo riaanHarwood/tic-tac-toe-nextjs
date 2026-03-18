@@ -29,8 +29,8 @@ npm run dev
 
 ## 📌 Future Improvements
 
-Add AI opponent
++ Add AI opponent
 
-Add animations
++ Add animations
 
-Mobile responsiveness
++ Mobile responsiveness
