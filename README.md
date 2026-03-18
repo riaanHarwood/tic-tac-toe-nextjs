@@ -2,6 +2,9 @@
 
 A modern Tic Tac Toe web application built using React and Next.js. Try it out!
 
+## What is Tic-tac-toe?
+Tic Tac Toe, or "Xs and Os," is a two-player game on a 3x3 grid where the goal is to align three marks horizontally, vertically, or diagonally. Simple in rules yet rich in strategy, its charm lies in the balance of clarity and challenge. - ref: geeksForGeeks.org
+
 ## 🚀 Features
 - Interactive game board
 - Turn-based gameplay
