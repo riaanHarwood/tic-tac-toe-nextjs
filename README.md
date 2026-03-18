@@ -25,3 +25,12 @@ npm run dev
 ## 📸 Demo
 
 (coming soon)
+
+
+📌 Future Improvements
+
+Add AI opponent
+
+Add animations
+
+Mobile responsiveness
