@@ -4,8 +4,10 @@ A modern Tic Tac Toe web application built using React and Next.js. Try it out!
 
 ## What is Tic-tac-toe?
 
-_Commonly known as "Noughts and Crosses" - Tic Tac Toe is a classic 3x3 grid game where two players compete to align three "X" or "O" marks. Its brilliance lies in how such simple rules can produce such engaging, strategic gameplay. 
-_
+
+_Commonly known as "Noughts and Crosses" - Tic Tac Toe is a classic 3x3 grid game where two players compete to align three "X" or "O" marks. Its brilliance lies in how such simple rules can produce such engaging, strategic gameplay. _
+
+
 
 ## 🚀 Features
 - Interactive game board
